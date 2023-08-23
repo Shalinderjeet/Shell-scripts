@@ -1,3 +1,4 @@
+#!/bin/bash
 ##########################
 # Author : Shalinderjeet Singh
 # Version : 1.0
